@@ -11,5 +11,8 @@
         <page name='08-magician-in-training'/>
         <page name='09-santas-swifty-helper'/>
         <page name='10-slice-sizing'/>
+        <page name='11-master-mixologist'/>
+        <page name='12-bomb-defuser'/>
+        <page name='13-high-score-board'/>
     </pages>
 </playground>
