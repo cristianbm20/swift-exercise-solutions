@@ -16,5 +16,7 @@
         <page name='13-high-score-board'/>
         <page name='14-poetry-club'/>
         <page name='15-lasagna-master'/>
+        <page name='16-windowing-system'/>
+        <page name='17-log-lines'/>
     </pages>
 </playground>
