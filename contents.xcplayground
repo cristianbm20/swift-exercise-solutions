@@ -19,5 +19,6 @@
         <page name='16-windowing-system'/>
         <page name='17-log-lines'/>
         <page name='18-difference-of-squares'/>
+        <page name='19-gigasecond'/>
     </pages>
 </playground>
