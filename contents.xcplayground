@@ -18,5 +18,6 @@
         <page name='15-lasagna-master'/>
         <page name='16-windowing-system'/>
         <page name='17-log-lines'/>
+        <page name='18-difference-of-squares'/>
     </pages>
 </playground>
