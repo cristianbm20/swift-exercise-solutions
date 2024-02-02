@@ -23,5 +23,8 @@
         <page name='20-leap'/>
         <page name='21-rna-transcription'/>
         <page name='22-space-age'/>
+        <page name='23-sum-of-multiples'/>
+        <page name='24-two-fer'/>
+        <page name='25-reverse-string'/>
     </pages>
 </playground>
