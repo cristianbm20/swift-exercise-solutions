@@ -1,5 +1,5 @@
 class Squares {
-  var num: Int
+  let num: Int
   
   init(_ num: Int) {
     self.num = num
@@ -18,3 +18,8 @@ class Squares {
     return squareOfSum - sumOfSquares
   }
 }
+
+Squares(5).num
+Squares(5).squareOfSum
+Squares(5).sumOfSquares
+Squares(5).differenceOfSquares
