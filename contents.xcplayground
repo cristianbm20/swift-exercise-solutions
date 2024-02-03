@@ -26,5 +26,8 @@
         <page name='23-sum-of-multiples'/>
         <page name='24-two-fer'/>
         <page name='25-reverse-string'/>
+        <page name='26-accumulate'/>
+        <page name='27-bob'/>
+        <page name='28-etl'/>
     </pages>
 </playground>
