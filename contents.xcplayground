@@ -31,5 +31,7 @@
         <page name='28-etl'/>
         <page name='29-grade-school'/>
         <page name='30-grains'/>
+        <page name='31-hamming'/>
+        <page name='32-isogram'/>
     </pages>
 </playground>

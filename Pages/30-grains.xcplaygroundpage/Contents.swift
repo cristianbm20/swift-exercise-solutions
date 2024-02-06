@@ -30,6 +30,6 @@ struct Grains {
   }
 }
 
-Grains.square(4)
-Grains.square(32)
+try Grains.square(4)
+try Grains.square(32)
 Grains.total
